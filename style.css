@@ -1,0 +1,20 @@
+#body_section {
+
+    position:relative;
+    width:1440px;
+    height:2716px;
+    background-color:#FFFFFF;
+
+}
+
+.top_section{
+
+    position: absolute;
+    width: 1281px;
+    height: 0px;
+    left: 92px;
+    top: 124px;
+    
+    border: 4px solid #E4E4E4;
+
+}
